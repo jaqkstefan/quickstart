@@ -193,3 +193,7 @@ Shut it down manually with `Ctrl-C`.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
+
+*DIRECTIVES*
+les directives permettent de modifier ou de transformer les DOM (document object module), ngRepeat, ngController,ngModel
+nommage: namesdirectivename ex, directive: loading, js: myloading html: my-loading
